@@ -1,2 +1,76 @@
 esse eh meu arquivo
 Incluida uma segunda linha
+
+<div style="text-align:center";>EUSOUHIT • (011) 3221-0855 
+<br>SAC: segunda-feira à sexta-feira das 08:00 às 17:00<br>Rua Aimorés 238, 5º andar - Bom Retiro • 01122-011 • CNPJ: 45.531.878/0001-91<br>
+Copyright ® 2015 · Confecções Shadow Ltda. Todos os direitos reservados. </div>
+
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12">
+			<div style="text-align:center;"> 			 
+				<address>
+					 <strong>EUSOUHIT</strong><br /><abbr title="Telefone">Telefone:</abbr> (11) 3221-0855
+					 <br>SAC: segunda-feira à sexta-feira das 08:00 às 17:00<br>
+					 Rua Aimorés 238, 5º andar - Bom Retiro • 01122-011 • CNPJ: 45.531.878/0001-91 <br /> 
+				</address>
+				Copyright ® 2015 · Confecções Shadow Ltda. Todos os direitos reservados. 
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+<div class="container-fluid" style="background: #000;">
+<div class="row">
+<div class="col-md-12">
+<div class="row">
+<div class="col-md-4">&nbsp;</div>
+<div class="col-md-4">
+<div class="newseu" style="display: inline-block;">{{block type="newsletter/subscribe" template="newsletter/subscribe.phtml"}}</div>
+</div>
+<div class="col-md-4">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+<div class="barra-footer" style="text-align: center;">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<div class="mynewsletter">{{block type="newsletter/subscribe" template="newsletter/subscribe.phtml"}}</div>
+<ul class="list-inline">
+<li><a href="https://www.eusouhit.com/sobre-nos">Sobre N&oacute;s</a></li>
+<li><a href="http://www.eusouhit.com/pedidos-e-entregas">Pedidos e&nbsp;Entrega</a></li>
+<li><a href="http://www.eusouhit.com/troca-e-devolucoes">Troca e&nbsp;Devolu&ccedil;&otilde;es</a></li>
+<li><a href="http://www.eusouhit.com/politica-de-privacidade">Pol&iacute;tica de Privacidade</a></li>
+<li><a href="{{config path="web/unsecure/base_url"}}contacts">Contato</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+Ultima versão
+<div class="barra-footer" style="text-align: center;">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<div class="mynewsletter">{{block type="newsletter/subscribe" template="newsletter/subscribe.phtml"}}</div>
+<ul class="list-inline" style="padding-top: 130px;">
+<li><a href="https://www.eusouhit.com/sobre-nos">Sobre N&oacute;s</a></li>
+<li><a href="http://www.eusouhit.com/pedidos-e-entregas">Pedidos e&nbsp;Entrega</a></li>
+<li><a href="http://www.eusouhit.com/troca-e-devolucoes">Troca e&nbsp;Devolu&ccedil;&otilde;es</a></li>
+<li><a href="http://www.eusouhit.com/politica-de-privacidade">Pol&iacute;tica de Privacidade</a></li>
+<li><a href="{{config path="web/unsecure/base_url"}}contacts">Contato</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+
